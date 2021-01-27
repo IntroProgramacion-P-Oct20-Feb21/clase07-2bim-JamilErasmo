@@ -20,10 +20,10 @@ public class ArrayListUno {
         
         arreglo.add(10);
         arreglo.add(20);
-        arreglo.add(30);
+        arreglo.add(35);
         arreglo.add(40);
-        arreglo.add(50);
-        arreglo.add(60);
+        arreglo.add(70);
+        arreglo.add(100);
         
         for (int i = 0; i < arreglo.size(); i++) {
             System.out.println(arreglo.get(i));
